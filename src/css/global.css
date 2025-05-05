@@ -1,0 +1,12 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 1.5;
+  color: #141414;
+}
+.container {
+  max-width: 1334px;
+  margin-inline: auto;
+  padding-inline: 15px;
+}
