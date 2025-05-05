@@ -1,0 +1,30 @@
+.hero-img{
+    width: 978px;
+    height: 590.91px;
+}
+.hero-socials-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+.hero-card{
+    width: 584px;
+    height: 455px;
+}
+.hero-card-btn{
+    width: 216px;
+    height: 68px;
+    font-size: 12px;
+}
+.card-btn-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn-gold{
+    color: #99823D;
+}
+.btn-black{
+    color: black;
+}
