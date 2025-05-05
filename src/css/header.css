@@ -1,0 +1,21 @@
+.ds{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+
+.header-logo{
+    width: 326px;
+    height: 136px;
+    padding-left: 68px;
+    padding-right: 68px;
+    padding-top: 43px;
+    padding-bottom: 44px;
+
+    background-color: #99823D;
+}
+
+.header-navigation-link {
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
